@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class homework {
 
   public static void main(String[] args) {
-    System.out.println("Hello word");
     Scanner scanner = new Scanner(System.in);
 
     int[] arr = new int[5];
