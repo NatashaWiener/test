@@ -19,20 +19,12 @@ public class Hello {
       sum += number;
       count++;
     }
-    if (count > 0) {
+    int arr = {4, 9, 5, 1, 6}    
+      if (count > 0) {
       double average = sum / count;
       System.out.println(average);
     }
 
   }
 }
-
-        Scanner scanner = new Scanner(System.in);
-        int a = scanner.nextInt();
-        int b = scanner.nextInt();
-        System.out.println(a + b);
-      }
-
-    }
-
 
