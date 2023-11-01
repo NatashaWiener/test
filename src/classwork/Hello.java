@@ -19,7 +19,7 @@ public class Hello {
       sum += number;
       count++;
     }
-    int arr = {4, 9, 5, 1, 6}    
+    int arr = {4, 9, 5, 3, 5}    
       if (count > 0) {
       double average = sum / count;
       System.out.println(average);
