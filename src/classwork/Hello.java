@@ -3,6 +3,7 @@ package classwork;
 import java.util.Scanner;
 
 public class Hello {
+  //metod kotorii budet chto to delat
 
   public static void main(String[] args) {
     Scanner scanner = new Scanner(System.in);
